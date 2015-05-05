@@ -45,3 +45,5 @@ d = jumpingOnTheBed + status;
 
 
 //what is the value of bumpedHead?
+
+//How long can this go on?
