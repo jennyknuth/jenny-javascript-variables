@@ -42,4 +42,6 @@ bumpedHead = monkeys-jumpingOnTheBed;
 d = jumpingOnTheBed + status;
 
 //what is the value of d at this point?
+
+
 //what is the value of bumpedHead?
