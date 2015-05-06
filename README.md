@@ -18,10 +18,8 @@ var d = jumpingOnTheBed + status;
 //what is the value of d at this point?
 
 
-jumpingOnTheBed -= 1;
-
-
-bumpedHead = monkeys-jumpingOnTheBed;
+bumpedHead += 1;
+jumpingOnTheBed = jumpingOnTheBed - bumpedHead;
 
 
 d = jumpingOnTheBed + status;
@@ -33,13 +31,12 @@ d = jumpingOnTheBed + status;
 //what is the value of bumpedHead?
 
 
-jumpingOnTheBed -= 1;
-
-
-bumpedHead = monkeys-jumpingOnTheBed;
+bumpedHead += 1;
+jumpingOnTheBed = jumpingOnTheBed - bumpedHead;
 
 
 d = jumpingOnTheBed + status;
+
 
 //what is the value of d at this point?
 
